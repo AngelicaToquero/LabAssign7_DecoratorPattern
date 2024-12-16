@@ -1,4 +1,4 @@
-public class Climb {
+public class Cimb {
     public static void main(String[] args) {
         SavingsAccount account = new SavingsAccount();
 
